@@ -13,6 +13,9 @@ function error404() {
             Cat by <a href="placekitten.com">placekitten</a>
           </div>
         </div>
+        <a href="/places">
+          <button className="btn-primary">Places Page</button>
+        </a>
       </main>
     </Def>
   )
